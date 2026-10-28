@@ -1,0 +1,11 @@
+{
+  "org": "Kozea",
+  "repo": "cairocffi",
+  "versions": [
+    {
+      "commit": "9cea02daaf15a41172f6e27788506a8328d2ef16",
+      "tag": "",
+      "parsed_at": "2026-10-28T17:13:51.454547+00:00"
+    }
+  ]
+}
