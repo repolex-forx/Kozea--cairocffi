@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Kozea/cairocffi/commit/9cea02daaf15a41172f6e27788506a8328d2ef16",
       "git:hexsha": "9cea02daaf15a41172f6e27788506a8328d2ef16",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T17:13:51.453922+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Kozea/cairocffi/commit/d05ed53512036abf94ee80f66f475af68b85c67d",
